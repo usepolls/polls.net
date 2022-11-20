@@ -12,7 +12,7 @@
         </h1>
         <p class="mt-4 text-2xl mx-auto !leading-snug lg:w-9/12 text-gray-500">Use Polls to ask your players for feedback, and gain per-poll analytics and understand your community reaction.</p>
         <div class="mt-6">
-          <a href="https://web.archive.org/web/20211218050550/https://twitter.com/analyse" class="text-base text-sky-600 group md:text-lg">Follow us <span class="group-hover:underline">@heychazza</span> on Twitter<span aria-hidden="true"> →</span></a>
+          <a href="https://twitter.com/heychazza" class="text-base text-sky-600 group md:text-lg">Follow us <span class="group-hover:underline">@heychazza</span> on Twitter<span aria-hidden="true"> →</span></a>
         </div>
       </div>
     </div>
