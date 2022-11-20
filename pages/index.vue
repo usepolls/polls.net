@@ -15,7 +15,7 @@
         <h1 class="mt-2 text-4xl md:text-5xl font-semibold text-brand-dark tracking-wide !leading-tight">
           The Open-Source Player Feedback Platform
         </h1>
-        <p class="mt-4 text-2xl mx-auto !leading-snug lg:w-9/12 text-gray-500">Use Polls to ask your players for feedback, and gain per-poll analytics and understand your community reaction.</p>
+        <p class="mt-4 text-2xl mx-auto !leading-snug lg:w-9/12 text-gray-500">Ask your players for feedback, and gain per-poll analytics and understand your community reaction.</p>
         <div class="mt-6">
           <a href="https://twitter.com/heychazza" class="text-base text-sky-600 group md:text-lg">Follow us <span class="group-hover:underline">@heychazza</span> on Twitter<span aria-hidden="true"> →</span></a>
         </div>
@@ -27,7 +27,7 @@
 
 <script setup>
 const title = 'Polls.net';
-const description = 'Ask your players questions and understand their feedback.';
+const description = 'Ask your players for feedback, and gain per-poll analytics and understand your community reaction.';
 
 useHead({
   title: title,
